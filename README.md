@@ -29,7 +29,7 @@ __Deep dive into InnoDB Engine__
 <hr/>
 
 ### Tools
-
+- [Remote Debug with Clion]()
 <hr/>
 
 ### GeekForDB

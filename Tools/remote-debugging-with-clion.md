@@ -73,7 +73,7 @@ Window나 Mac 환경에서 IDE를 활용하여 개발하는 경우 내장된 Deb
     ~~~
 2. CLion에서 Debug 실행
     - Breakpoint를 설정하거나 디버깅 옵션들을 설정한 후, 디버그 버튼 클릭. :beetle:
-    - ![clion-debug](images/clion-debug.png)
+    - ![clion-debug](images/clion-debugging.png)
 
 
 ### Trick  

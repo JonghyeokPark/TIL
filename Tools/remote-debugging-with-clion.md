@@ -65,13 +65,12 @@ Window나 Mac 환경에서 IDE를 활용하여 개발하는 경우 내장된 Deb
 
 
 ### How to Debug
-1.원격 개발 서버에서 `gdbserver` 실행
+1. 원격 개발 서버에서 `gdbserver` 실행
     - 원격 ssh 세션 Open
     - `gdbserver` 실행
-        ~~~c++
-        gdbserver :port [program name]
-        ~~~
-
+    ~~~c++
+    gdbserver :port [program name]
+    ~~~
 2. CLion에서 Debug 실행
     - Breakpoint를 설정하거나 디버깅 옵션들을 설정한 후, 디버그 버튼 클릭. :beetle:
     - ![clion-debug](images/clion-debug.png)

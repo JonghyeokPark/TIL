@@ -29,7 +29,7 @@ __Deep dive into InnoDB Engine__
 <hr/>
 
 ### Tools
-- [Remote Debugging with Clion](https://github.com/JonghyeokPark/TIL/blob/master/Tools/remote-debugging-with-clion.md)
+- [Remote Debugging with Clion](Tools/remote-debugging-with-clion.md)
 - [Gitbook Setup](Tools/gitbook-setup.md)
 <hr/>
 

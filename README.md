@@ -8,6 +8,9 @@
 - ERMIA
 - Papers
 - Tools
+- GeekForDB
+- Research
+- Misc
 <hr/>
 
 ### MySQL
@@ -35,6 +38,10 @@ __Deep dive into InnoDB Engine__
 
 ### GeekForDB
 
+<hr/>
+
+### Research
+- [How to write a great research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) From [Simon Peyton Jones](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 <hr/>
 
 ### Misc

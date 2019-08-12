@@ -8,6 +8,7 @@
 - ERMIA
 - Papers
 - Tools
+- Benchmarks
 - GeekForDB
 - Research
 - Misc
@@ -38,7 +39,7 @@ __Deep dive into InnoDB Engine__
 <hr/>
 
 ### Benchmarks
-- [OLTPBenchamrk](Benchmarks/oltpbenchmarks.md)
+- [OLTPBenchamrk](Benchmarks/oltpbenchmark.md)
 
 ### GeekForDB
 

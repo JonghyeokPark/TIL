@@ -36,6 +36,7 @@ __Deep dive into InnoDB Engine__
 - [Remote Debugging with Clion](Tools/remote-debugging-with-clion.md)
 - [Gitbook Setup](Tools/gitbook-setup.md)
 - [GCC](Tools/gcc.md)
+- [Clang](Tools/clang.md)
 <hr/>
 
 ### Benchmarks
